@@ -1,7 +1,6 @@
 ﻿// BinarySearch.cpp : 二分查找。
 //
 
-#include "pch.h"
 #include <iostream>
 
 const int BinarySearch(const int* dstArray, const int count, const int item)
